@@ -4,17 +4,17 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="0AWINOd6ktI3WcKwRpVy-1" value="Portal Cinema" style="image;html=1;image=img/lib/clip_art/computers/Workstation_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="60" y="70" width="170" height="170" as="geometry" />
-        </mxCell>
-        <mxCell id="0AWINOd6ktI3WcKwRpVy-2" value="Portal Cinema" style="image;html=1;image=img/lib/clip_art/computers/Workstation_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="490" y="135" width="100" height="90" as="geometry" />
-        </mxCell>
         <mxCell id="0AWINOd6ktI3WcKwRpVy-3" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="250" y="150" width="100" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="0AWINOd6ktI3WcKwRpVy-4" value="" style="image;html=1;image=img/lib/clip_art/people/Scientist_Man_128x128.png" vertex="1" parent="1">
+        <mxCell id="0AWINOd6ktI3WcKwRpVy-4" value="Visitante" style="image;html=1;image=img/lib/clip_art/people/Scientist_Man_128x128.png" vertex="1" parent="1">
           <mxGeometry x="374" y="145" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0AWINOd6ktI3WcKwRpVy-5" value="Portal Cinema" style="image;html=1;image=img/lib/clip_art/computers/Secure_System_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="90" y="100" width="140" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="0AWINOd6ktI3WcKwRpVy-6" value="Portal Cinema" style="image;html=1;image=img/lib/clip_art/computers/Secure_System_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="480" y="130" width="110" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

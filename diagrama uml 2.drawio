@@ -4,21 +4,31 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Cee4t8PCyWTKt9uUkoWR-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.037;entryY=0.425;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="Cee4t8PCyWTKt9uUkoWR-4">
+        <mxCell id="Cee4t8PCyWTKt9uUkoWR-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Cee4t8PCyWTKt9uUkoWR-1" target="Cee4t8PCyWTKt9uUkoWR-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cee4t8PCyWTKt9uUkoWR-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Cee4t8PCyWTKt9uUkoWR-1" target="Cee4t8PCyWTKt9uUkoWR-6">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="300" y="150" as="targetPoint" />
-            <mxPoint x="190" y="140" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="190" y="141" />
-              <mxPoint x="317" y="141" />
+              <mxPoint x="365" y="240" />
+              <mxPoint x="430" y="240" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Cee4t8PCyWTKt9uUkoWR-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="110" width="30" height="60" as="geometry" />
+        <mxCell id="Cee4t8PCyWTKt9uUkoWR-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Cee4t8PCyWTKt9uUkoWR-1" target="Cee4t8PCyWTKt9uUkoWR-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Cee4t8PCyWTKt9uUkoWR-4" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="320" y="100" width="80" height="80" as="geometry" />
+        <mxCell id="Cee4t8PCyWTKt9uUkoWR-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="290" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cee4t8PCyWTKt9uUkoWR-4" value="Buscar filme" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="530" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Cee4t8PCyWTKt9uUkoWR-6" value="Excluir Cadastro" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="390" y="110" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Cee4t8PCyWTKt9uUkoWR-7" value="Alterar Cadastro" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="270" y="110" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
